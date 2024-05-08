@@ -4,4 +4,4 @@ title:  "Welcome"
 date:   2023-09-08 09:00 +0300
 categories: blog
 ---
-Welcome to OpenTacCom, the open source tactical comms. The website has just been set up. More content is to come (hopefully) soon.
+Welcome to OpenTacCom, the open source tactical comm. The website has just been set up. More content is to come (hopefully) soon.
